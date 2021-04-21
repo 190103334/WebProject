@@ -34,7 +34,7 @@ User enters to the website without any account(which is very convinient). In the
 <br>
 <b>My ER giagram is here:</b>
 <br>
-![project](https://user-images.githubusercontent.com/78197235/115613743-9df6d100-a30e-11eb-81de-d774c3aa817c.png)
+![project](https://user-images.githubusercontent.com/78197235/115621119-e666bc80-a317-11eb-9dc8-111d7850123c.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
