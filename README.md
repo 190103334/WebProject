@@ -10,7 +10,7 @@ I have interacted with Laravel framework in order to complete this project. I ha
 <li>Javascipt</li>
 <li>Bootstrap</li>
 <li>PHP</li>
-<br><br>
+<br>
 <b>Eloquent relationship:</b>
 <br>
 One to Many
