@@ -13,8 +13,9 @@ I have interacted with Laravel framework in order to complete this project. I ha
 <br>
 <b>Eloquent relationship:</b>
 <br>
-One to Many
+One to Many<br>
 One patient/client may use several services.
+<br>
 <br>
 <b>What have I done?</b>
 <br><br>
