@@ -28,7 +28,9 @@ One patient/client may use several services.
 <li>Tables are in one to many relationship.</li>
 <br><br>
 <b>Use-case for this project.</b>
+<br>
 User enters to the website without any account(which is very convinient). In the 'services' session the user would introduced by services of this beauty salon -> types and cost of service. In 'about' session they can read about the beauty salon. In 'booking' session, the user makes some booking to the beauty salon. Admin would call to the user and know more about the user wishes and all these things will be saved in the database. In 'contact' session the user can call us without filling the form which is located in 'booking' session. That's it!
+<br>
 <br>
 <b>My ER giagram is here:</b>
 <br>
