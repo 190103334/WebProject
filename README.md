@@ -4,6 +4,7 @@
 I have interacted with Laravel framework in order to complete this project. I have made website where patients/clients can do some booking ONLINE and can experience some services from this beauty salon. Website has 5 sessions: home, services, about, booking and contact. They are logically connected. 
 <br><br>
 <b>What have I used?</b>
+<br>
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascipt</li>
