@@ -200,7 +200,7 @@
                                     <label>{{__('lang.name')}} </label>
                                     <input class="form-control" id="name" type="text" placeholder="{{__('lang.f_n')}}" name="full_name" required="required" data-validation-required-message="Please enter your name."  />
                                     <p class="help-block text-danger"></p>
-                                    <span class="text-success">@error('full_name'){{ $message }} @enderror</span>
+                                    <span class="text-danger">@error('full_name'){{ $message }} @enderror</span>
                                 </div>
                             </div>
                             <div class="control-group">
@@ -208,7 +208,7 @@
                                     <label>{{__('lang.address')}} </label>
                                     <input class="form-control" id="email" type="email" placeholder="{{__('lang.email')}}" name="email" required="required" data-validation-required-message="Please enter your email address." />
                                     <p class="help-block text-danger"></p>
-                                    <span class="text-success">@error('email'){{ $message }} @enderror</span>
+                                    <span class="text-danger">@error('email'){{ $message }} @enderror</span>
                                 </div>
                             </div>
                             <div class="control-group">
@@ -216,7 +216,7 @@
                                     <label>{{__('lang.number')}} </label>
                                     <input class="form-control" id="phone" type="tel" placeholder="{{__('lang.ph')}}" name="phone_number" required="required" data-validation-required-message="Please enter your phone number." />
                                     <p class="help-block text-danger"></p>
-                                    <span class="text-success">@error('phone_number'){{ $message }} @enderror</span>
+                                    <span class="text-danger">@error('phone_number'){{ $message }} @enderror</span>
                                 </div>
                             </div>
                             <br>
